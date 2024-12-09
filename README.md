@@ -10,6 +10,7 @@ Player vs AI: A human player competes against an AI opponent that follows an opt
 This implementation uses Python and runs in a Command-Line Interface (CLI).
 
 How to Play
+
 The game starts with 3 piles of random objects (sizes range between 1 and 7), but the starting configuration cannot be [1, 1, 1].
 Players take turns removing objects from one pile at a time:
 Choose a pile.
